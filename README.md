@@ -15,6 +15,7 @@ source venv/bin/activate
 # Windows
 python -m venv venv
 venv\Scripts\activate
+then go to cd studybud
 ```
 
 ### 3. Install dependencies
