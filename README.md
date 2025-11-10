@@ -32,8 +32,4 @@ python manage.py migrate
 ### 5. Run the development server
 ```bash
 python manage.py runserver
-```
 
-Open 👉 http://127.0.0.1:8000/
-
----
